@@ -1,5 +1,6 @@
 usernique
 =========
+[![Gitter](http://localhost:4000/Join Chat.svg)](http://localhost:5000/trevorah/usernique?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Generate a unique username and check its availability.
 
